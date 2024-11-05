@@ -51,3 +51,5 @@ y_true = [1, 2, 8, 8, 8]
 y_pred = [1, 1, 8, 8, 2]
 target_names = ['class0', 'class1', 'class2']
 print(classification_report(y_true, y_pred, target_names=target_names))
+
+print("文档已被修改 2024-11-05 21:12")
