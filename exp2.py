@@ -125,3 +125,8 @@ print("Report of SVM")
 print(classification_report(y_test, prediction))
 
 
+<<<<<<< HEAD
+=======
+# 15:11
+print("这是我的修改，1111")
+>>>>>>> 29554f1328bb6e5aef93a8a63b162918377da05a
